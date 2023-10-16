@@ -1,0 +1,33 @@
+<resources>
+
+    <string name="app_name">Android Programming</string>
+
+    <string name="beer_adviser">Beer Adviser</string>
+    <string name="my_messenger">My Messenger</string>
+    <string name="dice">Dice</string>
+    <string name="flashlight">Flashlight</string>
+    <string name="stopwatch">Stopwatch</string>
+    <string name="workout">Workout</string>
+
+    <string name="find_beer">Find Beer!</string>
+    <string name="brands">No beers selected</string>
+    <string-array name="beer_colors">
+        <item>light</item>
+        <item>amber</item>
+        <item>brown</item>
+        <item>dark</item>
+    </string-array>
+
+    <string name="send">Send Message</string>
+    <string name="hint">Enter a message</string>
+    <string name="chooser">Send message via...</string>
+
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+
+    <string name="details_button">Show details</string>
+    <string name="workout_title">Title</string>
+    <string name="workout_description">Description</string>
+
+</resources>
